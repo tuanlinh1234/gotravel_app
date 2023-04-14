@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738120223305",
+    "project_id": "dbtravel-136db",
+    "storage_bucket": "dbtravel-136db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738120223305:android:5a43345b20d41f90764d98",
+        "android_client_info": {
+          "package_name": "com.example.doantn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738120223305-d4eicu4s52ee4k5sropudpgg6nqd735q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlcUhq4M--431FE05MqwundsiUUMK_J4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738120223305-d4eicu4s52ee4k5sropudpgg6nqd735q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
